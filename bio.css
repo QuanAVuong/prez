@@ -1,0 +1,48 @@
+body {
+  /* Location of the image */
+  background-image: url(http://static1.businessinsider.com/image/5603216fbd86ef20008bc9c0/donald-trump-trashes-former-hedge-fund-guy-who-jacked-up-drug-price-he-looks-like-a-spoiled-brat.jpg);
+  
+
+  /* Background image is centered vertically and horizontally at all times */
+  background-position: center center;
+  
+  /* Background image doesn't tile */
+  background-repeat: no-repeat;
+  
+  /* Background image is fixed in the viewport so that it doesn't move when 
+     the content's height is greater than the image's height */
+  background-attachment: fixed;
+  
+  /* This is what makes the background image rescale based
+     on the container's size */
+  background-size: cover;
+  
+  /* Set a background color that will be displayed
+     while the background image is loading */
+  background-color: #464646;
+
+  color: white
+
+}
+
+h1 {
+  text-align: center;
+}
+
+
+
+img {
+  float: left;
+  height: 30%;
+  width: 30%;
+}
+
+img:hover {
+  /*content: url("http://i.giphy.com/26gYSPA8fSFPmuSsg.gif");*/
+  content: url("http://i.giphy.com/l3q2JpzXbqdZ6ptGE.gif");
+}
+
+.container {
+  background-color: rgba(100, 0, 0, .6);
+  /*opacity: .5;*/
+}
