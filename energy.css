@@ -1,6 +1,6 @@
 body {
   /* Location of the image */
-  background-image: url(http://www.migrationpolicy.org/sites/default/files/source_images/EllisIsland-LudovicBertron-flickr.jpg);
+  background-image: url(https://s3.amazonaws.com/files.open.nasa.gov/spaceapps/media/74ff5a95-31e4-4c36-950d-2b53903eb7f4.jpg);
   
 
   /* Background image is centered vertically and horizontally at all times */
@@ -45,3 +45,4 @@ img:hover {
 .container {
   background-color: rgba(100, 0, 0, .6);
   /*opacity: .5;*/
+}

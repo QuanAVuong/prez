@@ -1,6 +1,6 @@
 body {
   /* Location of the image */
-  background-image: url(http://static1.businessinsider.com/image/5603216fbd86ef20008bc9c0/donald-trump-trashes-former-hedge-fund-guy-who-jacked-up-drug-price-he-looks-like-a-spoiled-brat.jpg);
+  background-image: url(https://timedotcom.files.wordpress.com/2015/12/climate-change1.jpg?w=1100&quality=85);
   
 
   /* Background image is centered vertically and horizontally at all times */
@@ -33,13 +33,13 @@ h1 {
 
 img {
   float: left;
-  height: 50%;
-  width: 50%;
+  height: 30%;
+  width: 30%;
 }
 
 img:hover {
   /*content: url("http://i.giphy.com/26gYSPA8fSFPmuSsg.gif");*/
-  content: url("http://i.giphy.com/l3q2JpzXbqdZ6ptGE.gif");
+  content: url("http://i.giphy.com/26gs68puYGsANBKso.gif");
 }
 
 .container {

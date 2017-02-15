@@ -1,6 +1,6 @@
 body {
   /* Location of the image */
-  background-image: url(http://www.migrationpolicy.org/sites/default/files/source_images/EllisIsland-LudovicBertron-flickr.jpg);
+  background-image: url(http://static1.businessinsider.com/image/5603216fbd86ef20008bc9c0/donald-trump-trashes-former-hedge-fund-guy-who-jacked-up-drug-price-he-looks-like-a-spoiled-brat.jpg);
   
 
   /* Background image is centered vertically and horizontally at all times */
@@ -39,9 +39,10 @@ img {
 
 img:hover {
   /*content: url("http://i.giphy.com/26gYSPA8fSFPmuSsg.gif");*/
-  content: url("http://i.giphy.com/26gs68puYGsANBKso.gif");
+  content: url("http://i.giphy.com/jSB2l4zJ82Rvq.gif");
 }
 
 .container {
   background-color: rgba(100, 0, 0, .6);
   /*opacity: .5;*/
+}

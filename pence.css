@@ -1,6 +1,6 @@
 body {
   /* Location of the image */
-  background-image: url(http://static1.businessinsider.com/image/5603216fbd86ef20008bc9c0/donald-trump-trashes-former-hedge-fund-guy-who-jacked-up-drug-price-he-looks-like-a-spoiled-brat.jpg);
+  background-image: url(http://www.themarysue.com/wp-content/uploads/2016/12/mike-pence.jpg);
   
 
   /* Background image is centered vertically and horizontally at all times */
@@ -39,7 +39,7 @@ img {
 
 img:hover {
   /*content: url("http://i.giphy.com/26gYSPA8fSFPmuSsg.gif");*/
-  content: url("http://i.giphy.com/l3q2JpzXbqdZ6ptGE.gif");
+  content: url("http://i.giphy.com/26gJzeLlerLjPgqcw.gif");
 }
 
 .container {

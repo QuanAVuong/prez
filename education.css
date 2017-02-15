@@ -1,6 +1,9 @@
 body {
+  cursor: url("https://forums.robertsspaceindustries.com/themes/RSI/images/icon-backer.png"), crosshair;
+  /*cursor: url("purple.png"), crosshair;*/
+
   /* Location of the image */
-  background-image: url(http://static1.businessinsider.com/image/5603216fbd86ef20008bc9c0/donald-trump-trashes-former-hedge-fund-guy-who-jacked-up-drug-price-he-looks-like-a-spoiled-brat.jpg);
+  background-image: url(https://ideadecodesign.files.wordpress.com/2015/12/looking-for-studies-education-ideadeco.jpg?w=1340&h=670&crop=1);
   
 
   /* Background image is centered vertically and horizontally at all times */
@@ -39,7 +42,7 @@ img {
 
 img:hover {
   /*content: url("http://i.giphy.com/26gYSPA8fSFPmuSsg.gif");*/
-  content: url("http://i.giphy.com/l3q2JpzXbqdZ6ptGE.gif");
+  content: url("http://i.giphy.com/26gs68puYGsANBKso.gif");
 }
 
 .container {
